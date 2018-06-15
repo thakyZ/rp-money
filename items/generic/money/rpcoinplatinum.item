@@ -1,0 +1,10 @@
+{
+  "itemName": "rpcoinplatinum",
+  "price": 0,
+  "rarity": "Common",
+  "category": "currency",
+  "inventoryIcon": "rpcoinplatinum.png",
+  "description": "Real play money for all your buying needs!",
+  "shortdescription": "Platinum Coin",
+  "radioMessagesOnPickup" : [ "pickupmoney" ]
+}

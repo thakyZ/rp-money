@@ -1,0 +1,8 @@
+[
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "rpmoneypress" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "rpcoincopper" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "rpcoinsilver" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "rpcoingold" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "rpcoinplatinum" } },
+  { "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item" : "money" } }
+]

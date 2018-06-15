@@ -1,0 +1,11 @@
+{
+  "itemName": "rpcoingold",
+  "price": 0,
+  "rarity": "Common",
+  "category": "currency",
+  "inventoryIcon": "rpcoingold.png",
+  "description": "Real play money for all your buying needs!",
+  "shortdescription": "Gold Coin",
+  "maxStack" : 100,
+  "radioMessagesOnPickup" : [ "pickupmoney" ]
+}

@@ -1,0 +1,11 @@
+{
+  "itemName": "rpcoincopper",
+  "price": 0,
+  "rarity": "Common",
+  "category": "currency",
+  "inventoryIcon": "rpcoincopper.png",
+  "description": "Real play money for all your buying needs!",
+  "shortdescription": "Copper Coin",
+  "maxStack" : 100,
+  "radioMessagesOnPickup" : [ "pickupmoney" ]
+}

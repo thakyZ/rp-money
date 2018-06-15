@@ -1,0 +1,11 @@
+{
+  "itemName": "rpcoinsilver",
+  "price": 0,
+  "rarity": "Common",
+  "category": "currency",
+  "inventoryIcon": "rpcoinsilver.png",
+  "description": "Real play money for all your buying needs!",
+  "shortdescription": "Silver Coin",
+  "maxStack" : 100,
+  "radioMessagesOnPickup" : [ "pickupmoney" ]
+}
