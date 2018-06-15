@@ -3,6 +3,6 @@
     { "item" : "money", "count" : 100 }
   ],
   "output" : { "item" : "rpcoinsilver", "count" : 1 },
-  "duration" : 0.3,
+  "duration" : 0.1,
   "groups" : [ "rpmoney", "pixeltomoney" ]
 }

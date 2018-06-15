@@ -3,6 +3,6 @@
     { "item" : "rpcoincopper", "count" : 1 }
   ],
   "output" : { "item" : "money", "count" : 1 },
-  "duration" : 0.3,
+  "duration" : 0.1,
   "groups" : [ "rpmoney", "moneytopixel" ]
 }

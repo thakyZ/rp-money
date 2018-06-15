@@ -3,6 +3,6 @@
     { "item" : "rpcoingold", "count" : 1 }
   ],
   "output" : { "item" : "money", "count" : 10000 },
-  "duration" : 0.3,
+  "duration" : 0.1,
   "groups" : [ "rpmoney", "moneytopixel" ]
 }
