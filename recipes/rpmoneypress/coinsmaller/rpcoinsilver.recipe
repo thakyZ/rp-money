@@ -3,6 +3,6 @@
     { "item" : "rpcoingold", "count" : 1 }
   ],
   "output" : { "item" : "rpcoinsilver", "count" : 100 },
-  "duration" : 0.9,
+  "duration" : 0.3,
   "groups" : [ "rpmoney", "coinsmaller" ]
 }
