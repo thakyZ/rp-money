@@ -1,6 +1,6 @@
 {
   "author" : "thakyZ",
-  "description" : "Adds RP money.\nActs like voxels but with no loss, and looks like coins.\nIdea taken from Terraria, with copper, silver, gold, and platinum coins.\nTypical monster drops also drop the coins.\nCraft the table at the basic inventors table.\nNo need for a item list, this is meant to be used without cheating.",
+  "description" : "Adds RP money.\nActs like voxels but with no loss, and looks like coins.\nIdea taken from Terraria, with copper, silver, gold, and platinum coins.\nCraft the table at the basic inventors table.\nNo need for a item list, this is meant to be used without cheating.",
   "friendlyName" : "RP Money",
   "link" : "steam://url/CommunityFilePage/1411945486",
   "name" : "rp-money",
