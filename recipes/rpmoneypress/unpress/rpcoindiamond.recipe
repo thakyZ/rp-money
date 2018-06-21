@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "rpcoindiamond", "count" : 1 }
+  ],
+  "output" : { "item" : "money", "count" : 100000 },
+
+  "duration" : 0.1,
+  "groups" : [ "rpmoney", "moneytopixel" ]
+}

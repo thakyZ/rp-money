@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 100000000 }
+  ],
+  "output" : { "item" : "rpcointitanium", "count" : 1 },
+  "duration" : 0.1,
+  "groups" : [ "rpmoney", "pixeltomoney" ]
+}

@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "rpcointungsten", "count" : 10 }
+  ],
+  "output" : { "item" : "rpcointitanium", "count" : 1 },
+  "duration" : 0.1,
+  "groups" : [ "rpmoney", "coinlarger" ]
+}
