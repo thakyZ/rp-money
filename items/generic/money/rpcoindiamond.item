@@ -1,0 +1,11 @@
+{
+  "itemName": "rpcoindiamond",
+  "price": 0,
+  "rarity": "Common",
+  "category": "currency",
+  "inventoryIcon": "rpcoindiamond.png",
+  "description": "Real play money for all your buying needs!",
+  "shortdescription": "Diamond Coin",
+  "maxStack" : 100,
+  "radioMessagesOnPickup" : [ "pickupmoney" ]
+}

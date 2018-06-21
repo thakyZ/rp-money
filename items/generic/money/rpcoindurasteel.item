@@ -1,0 +1,11 @@
+{
+  "itemName": "rpcoindurasteel",
+  "price": 0,
+  "rarity": "Common",
+  "category": "currency",
+  "inventoryIcon": "rpcoindurasteel.png",
+  "description": "Real play money for all your buying needs!",
+  "shortdescription": "Durasteel Coin",
+  "maxStack" : 100,
+  "radioMessagesOnPickup" : [ "pickupmoney" ]
+}

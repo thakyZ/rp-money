@@ -1,0 +1,11 @@
+{
+  "itemName": "rpcoincore",
+  "price": 0,
+  "rarity": "Common",
+  "category": "currency",
+  "inventoryIcon": "rpcoincore.png",
+  "description": "Real play money for all your buying needs!",
+  "shortdescription": "Core Fragment Coin",
+  "maxStack" : 100,
+  "radioMessagesOnPickup" : [ "pickupmoney" ]
+}
