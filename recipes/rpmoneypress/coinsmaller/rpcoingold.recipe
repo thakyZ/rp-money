@@ -1,8 +1,8 @@
 {
   "input" : [
-    { "item" : "rpcoindiamond", "count" : 1 }
+    { "item" : "rpcoinplatinum", "count" : 1 }
   ],
-  "output" : { "item" : "rpcoingold", "count" : 10 },
+  "output" : { "item" : "rpcoingold", "count" : 100 },
   "duration" : 0.1,
   "groups" : [ "rpmoney", "coinsmaller" ]
 }

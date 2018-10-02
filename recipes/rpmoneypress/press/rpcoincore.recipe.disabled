@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "money", "count" : 1000 }
+    { "item" : "money", "count" : 20 }
   ],
   "output" : { "item" : "rpcoincore", "count" : 1 },
   "duration" : 0.1,
