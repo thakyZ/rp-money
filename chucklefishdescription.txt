@@ -1,0 +1,17 @@
+[B]Roleplay money for your buying needs[/B]
+
+Adds RP money.
+Acts like voxels but with no loss, and looks like coins.
+Idea taken from Terraria, with copper, silver, gold, and platinum coins.
+Craft the table at the basic inventors table.
+No need for a item list, this is meant to be used without cheating.
+
+[CODE]
+Images to be added soon
+[/CODE]
+
+[B]Github:[/B] [URL]https://github.com/thakyZ/rp-money[/URL]
+[B]Steam Workshop:[/B] [URL]https://steamcommunity.com/sharedfiles/filedetails/?id=1411945486[/URL]
+
+Fully compatible with Frackin' Universe
+[IMG]https://i.imgur.com/1TfuM5F.png[/IMG]
