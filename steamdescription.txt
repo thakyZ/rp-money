@@ -6,10 +6,6 @@ Idea taken from Terraria, with copper, silver, gold, and platinum coins.
 Craft the table at the basic inventors table.
 No need for a item list, this is meant to be used without cheating.
 
-[code]
-Images to be added soon
-[/code]
-
 [b]Github:[/b] [url]https://github.com/thakyZ/rp-money[/url]
 [b]Chucklefish Forums:[/b] [URL]https://community.playstarbound.com/resources/rp-money.5376[/url]
 
