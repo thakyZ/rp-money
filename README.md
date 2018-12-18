@@ -22,4 +22,4 @@ No need for a item list, this is meant to be used without cheating.
 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1411945486)
 
 Fully compatible with Frackin' Universe   
-[!Won't break Frackin' Universe](https://i.imgur.com/1TfuM5F.png)
+![Won't break Frackin' Universe](https://i.imgur.com/1TfuM5F.png)
