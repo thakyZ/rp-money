@@ -2,7 +2,7 @@
   "input" : [
     { "item" : "rpcoingold", "count" : 1 }
   ],
-  "output" : { "item" : "money", "count" : 1000000 },
+  "output" : { "item" : "money", "count" : 1000 },
   "duration" : 0.1,
   "groups" : [ "rpmoney", "moneytopixel" ]
 }
