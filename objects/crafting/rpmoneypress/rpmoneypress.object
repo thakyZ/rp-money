@@ -13,7 +13,7 @@
   "price" : 65,
 
   "description" : "Compress pixels into roleplay money.",
-  "shortdescription" : "^green;RP Money Press^white;",
+  "shortdescription" : "^orange;RP Money Press^white;",
   "race" : "generic",
 
   "inventoryIcon" : "rpmoneypressicon.png",
