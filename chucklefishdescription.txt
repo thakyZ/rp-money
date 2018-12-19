@@ -1,5 +1,3 @@
-[B]Roleplay money for your buying needs.[/B]
-
 Adds RP money.
 Acts like voxels but with no loss, and looks like coins.
 Idea taken from Terraria, with copper, silver, gold, and platinum coins.
