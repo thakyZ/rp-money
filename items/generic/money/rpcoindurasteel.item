@@ -7,5 +7,5 @@
   "description": "Real play money for all your buying needs!",
   "shortdescription": "Durasteel Coin",
   "maxStack" : 100,
-  "radioMessagesOnPickup" : [ "pickupmoney" ]
+  "radioMessagesOnPickup" : ["pickupmoney"]
 }

@@ -6,5 +6,6 @@
   "inventoryIcon": "rpcoinplatinum.png",
   "description": "Real play money for all your buying needs!",
   "shortdescription": "Platinum Coin",
-  "radioMessagesOnPickup" : [ "pickupmoney" ]
+
+  "radioMessagesOnPickup" : ["pickupmoney"]
 }
