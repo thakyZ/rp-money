@@ -1,4 +1,4 @@
-[b]Roleplay money for your buying needs[/b]
+[b]Roleplay money for your buying needs.[/b]
 
 Adds RP money.
 Acts like voxels but with no loss, and looks like coins.
