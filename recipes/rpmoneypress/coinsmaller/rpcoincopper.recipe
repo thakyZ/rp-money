@@ -2,7 +2,7 @@
   "input" : [
     { "item" : "rpcoinsilver", "count" : 1 }
   ],
-  "output" : { "item" : "rpcoincopper", "count" : 100 },
+  "output" : { "item" : "rpcoincopper", "count" : 10 },
   "duration" : 0.1,
   "groups" : [ "rpmoney", "coinsmaller" ]
 }
